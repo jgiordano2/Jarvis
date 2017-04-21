@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Grammars/" kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/Maherj96/Desktop/JarvisAndSpeech/bin/libraries/marytts-builder-5.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="/Users/Maherj96/Desktop/JarvisAndSpeech/bin/libraries/marytts-lang-en-5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Maherj96/Desktop/JarvisAndSpeech/bin/libraries/sphinx4-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Maherj96/Desktop/JarvisAndSpeech/bin/libraries/sphinx4-data-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Maherj96/Desktop/JarvisAndSpeech/bin/libraries/voice-cmu-rms-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Maherj96/Desktop/JarvisAndSpeech/bin/libraries/voice-cmu-slt-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Maherj96/Desktop/JarvisAndSpeech/bin/libraries/voice-dfki-poppy-hsmm-5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Maherj96/Desktop/JarvisAndSpeech/bin/libraries/voice-dfki-poppy-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Maherj96/Desktop/JarvisAndSpeech/bin/libraries/voice-dfki-prudence-hsmm-5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Maherj96/Desktop/JarvisAndSpeech/useful-docs/sphinx4-core-1.0.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Maherj96/Desktop/JarvisAndSpeech/log"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
